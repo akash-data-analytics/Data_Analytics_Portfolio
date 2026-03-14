@@ -53,11 +53,12 @@ Key Insights:
 Excel | SQL | Python | Power BI | GitHub
 
 ## Dashboard Preview
-# Customer Churn Dashboard 
+
+### Customer Churn Dashboard 
 ![Customer Churn Dasboard](Dashboardcc.png) 
 
-#HR_Employee_Attrition 
+### HR Employee Attrition 
 ![HR Employee Attrition Dashboard](Dashboardhr.png)
 
-#Reayil_Sales_Dashboard
-![Reatil_Sales_Dashboard](Dashboardrs.png)
+### Retail Sales Dashboard
+![Retail Sales Dashboard](Dashboardrs.png)
