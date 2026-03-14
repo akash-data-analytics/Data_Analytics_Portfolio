@@ -58,3 +58,6 @@ discount_vs_profit_analysis.csv – SQL analysis output
 discount_profit_analysis.sql – SQL query used for analysis
 Retail_Sales_Performance_Dashboard.pbix – Power BI dashboard
 Retail_Sales_Performance_Dashboard.pdf – Dashboard preview
+
+##Dashboard Preview 
+![Retail Sales Dashboard](Dashboardrs.png)
