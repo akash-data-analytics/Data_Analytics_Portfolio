@@ -55,10 +55,10 @@ Excel | SQL | Python | Power BI | GitHub
 ## Dashboard Preview
 
 ### Customer Churn Dashboard 
-![Customer Churn Dasboard](Dashboardcc.png) 
+![Customer Churn Dasboard](Customer_churn_dashboard.png) 
 
 ### HR Employee Attrition 
-![HR Employee Attrition Dashboard](dashboardhr.png)
+![HR Employee Attrition Dashboard](hr_attrition_dashboard.png)
 
 ### Retail Sales Dashboard
-![Retail Sales Dashboard](Dashboardrs.png)
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
