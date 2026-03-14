@@ -58,7 +58,7 @@ Excel | SQL | Python | Power BI | GitHub
 ![Customer Churn Dasboard](Dashboardcc.png) 
 
 ### HR Employee Attrition 
-![HR Employee Attrition Dashboard](Dashboardhr.png)
+![HR Employee Attrition Dashboard](dashboardhr.png)
 
 ### Retail Sales Dashboard
 ![Retail Sales Dashboard](Dashboardrs.png)
