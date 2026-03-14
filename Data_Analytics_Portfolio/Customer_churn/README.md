@@ -71,5 +71,6 @@ including churn rate, contract type distribution, and monthly charge analysis.
 6_customer_churn_dashboard.pbix – Power BI dashboard  
 7_customer_churn_dashboard.pdf – dashboard preview
 
-
+## Dashboard Preview
+![Customer Churn Dashboard](Dashboardcc.png)
 
